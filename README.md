@@ -34,7 +34,7 @@ The site is a work in progress. It will showcase my skills, projects, and experi
    python app.py
    ```
 
-The website will be available at `http://127.0.0.1:5000`.
+The website will be available at `http://127.0.0.1:5000`
 
 ## Status
 
